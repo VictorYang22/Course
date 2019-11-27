@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.97.191.126/CEFCourseWS.ipa</string>
+					<string>http://47.97.191.126/CEFCourseJM.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://47.97.191.126/CEFCourseWS.ipa.png</string>
+					<string>http://47.97.191.126/CEFCourseJM.ipa.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://47.97.191.126/CEFCourseWS.ipa.png</string>
+					<string>http://47.97.191.126/CEFCourseJM.ipa.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ARdEZ.CEFCourseWS</string>
+				<string>com.ARdEZ.CEFCourseJM</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
